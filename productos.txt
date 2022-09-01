@@ -1,0 +1,17 @@
+ [
+    {
+        title: 'Face Wash',
+        price: 850,
+        
+    },
+    {
+        title: 'Niacinamida',
+        price: 1200,
+        
+    },
+    {
+        title: 'Bloqueador',
+        price: 2890,
+        
+    }
+  ]
